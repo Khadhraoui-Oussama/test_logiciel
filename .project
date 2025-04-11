@@ -35,6 +35,7 @@
 			</matcher>
 		</filter>
 		<filter>
+<<<<<<< HEAD
 			<id>1744412231304</id>
 			<name></name>
 			<type>10</type>
@@ -45,6 +46,18 @@
 		</filter>
 		<filter>
 			<id>1744412231328</id>
+=======
+			<id>1744414740518</id>
+			<name></name>
+			<type>10</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>.*\.svn$</arguments>
+			</matcher>
+		</filter>
+		<filter>
+			<id>1744414740530</id>
+>>>>>>> branch 'master' of https://github.com/Khadhraoui-Oussama/test_logiciel
 			<name></name>
 			<type>6</type>
 			<matcher>
