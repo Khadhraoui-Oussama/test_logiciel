@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Testing if buttons are clickable and doing the correct action</description>
+   <name>Button_test</name>
+   <tag>Buttons</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5338ced1-b0d2-4e4b-aad7-6e0c7431f0b7</testCaseGuid>
+</TestCaseEntity>
