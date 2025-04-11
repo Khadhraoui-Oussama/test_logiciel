@@ -83,7 +83,5 @@ WebUI.click(findTestObject('Object Repository/Buttons/Page_Sweet Shop/a_Add to B
 
 WebUI.verifyElementClickable(findTestObject('Buttons/Page_Sweet Shop/a_Add to Basket_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15'))
 
-WebUI.click(findTestObject('Object Repository/Buttons/Page_Sweet Shop/a_16 Basket'))
-
 WebUI.closeBrowser()
 
